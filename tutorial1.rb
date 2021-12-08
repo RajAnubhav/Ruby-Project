@@ -2,8 +2,6 @@
 puts "Hello world"
 # puts :- prints the value and puts the cursor in the new line
 
-# how to make a shape in the ruby
-print "Graffie Academy\n"
 # print will not bring the new line
 
 puts "   /|"
