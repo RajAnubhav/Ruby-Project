@@ -14,6 +14,7 @@ while guess != word and !out_of_moves
     else
         out_of_moves = true
     end
+    
 end
 
 if out_of_moves
